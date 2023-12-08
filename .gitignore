@@ -1,0 +1,15 @@
+.venv/
+
+
+dist/
+
+pycache/
+
+.vscode/
+
+
+.idea/
+
+__pycache__
+
+
