@@ -1,5 +1,5 @@
 stroki = []
-with open('first/input.txt', 'r') as file:
+with open('input.txt', 'r') as file:
     for i in file:
         stroki.append(i)
 
